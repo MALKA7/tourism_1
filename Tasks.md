@@ -1,0 +1,1 @@
+Lets add a Light/Dark mode toggle to the header. This toggle should work seemlessly for all pages...For the dark mode use black and this yellow: #F4B200. Keep all elements , content as is...Make sure all elements are visible in both light and dark mode correctly. The toggle should be applied for all pages. 
